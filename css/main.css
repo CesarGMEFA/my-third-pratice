@@ -135,6 +135,15 @@ html {
 }
 /*  */
 
+/* ATRIBUTTION STYLE */
+.attribution {
+    font-family: var(--family-font);
+    color: var(--primary-very-Dark-Desaturated-blue);
+    font-weight: var(--weight-bold);
+    font-size: var(--name-stats);
+    margin-top: 1rem;
+}
+
 @media (min-width: 320px) and (max-width: 490px) {
     .circle .circle-1 {
         left: -750px;
