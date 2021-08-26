@@ -21,8 +21,8 @@ This work was very complicated for me for the positioning of the elements and va
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/this-challenge-made-me-somewhat-difficult-r1mhVxRdH)
+- Live Site URL: [URL here](https://profile-card-cisar.netlify.app/)
 
 ## My process
 
