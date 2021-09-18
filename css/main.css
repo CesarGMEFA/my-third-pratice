@@ -29,8 +29,6 @@ html {
 .circle .circle-1,
 .circle .circle-2 {
     position: absolute;
-    /* width: 800px;
-    height: auto; */
     background-size: contain;
 }
 .circle .circle-1 {
